@@ -1,5 +1,5 @@
 ---
-  # hi! i'm darrell and i like simulating things
+  # Hello!
 
   ## Links
 
